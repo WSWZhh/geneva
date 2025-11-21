@@ -3,6 +3,8 @@
 **Are you using Geneva? If so, let us know! Shoot us an email at geneva@cs.umd.edu, or to use PGP, email us directly with our keys [on our website](https://geneva.cs.umd.edu/people/).**
 
 https://zh.wikipedia.org/zh-cn/Geneva_(%E8%BD%AF%E4%BB%B6)
+微信的匿名监视机制
+https://citizenlab.ca/2016/11/wechat-china-censorship-one-app-two-systems/
 
 Geneva is an artificial intelligence tool designed by researchers at the University of Maryland that defeats censorship by exploiting bugs in censors, such as those in China, India, and Kazakhstan. Unlike many other anti-censorship solutions which require assistance from outside the censoring regime (Tor, VPNs, etc.), Geneva runs strictly on one side of the connection (either the client or server side). Geneva should be considered a research project for researchers, and it is not built with a graphical user interface. 
 
